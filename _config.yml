@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://www.jlbrother2016.github.io
+url: http://www.jlcoo.github.io
 date_format: "ordinal"
-title: JLBrother
-subtitle: "cup of life"
-description: "jl-brother 的个人博客，以技术为主，主要为学习总结"
+title: jlcoo 小站
+subtitle: "cup of life, code for gap"
+description: "jlcoo 的个人博客，以技术为主，主要为学习总结"
 keywords: jl-brother JLBrother
 timezone: Asia/BeiJing
 encoding: "utf-8"
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: 
+author: Long Jiang
+organization: 百度
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: jlcoo
+location: BeiJing, China
+email: longjianguestc@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -120,14 +120,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: jlcoo
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: jlcoo
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709

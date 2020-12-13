@@ -1,6 +1,6 @@
-# 码志
+# jlcoo
 
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<https://jlcoo.github.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -17,7 +17,7 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://mazhuang.org)**
+**[在线预览 &rarr;](https://jlcoo.github.io)**
 
 ![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
 
@@ -85,6 +85,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 ## 致谢
 
 本博客外观基于 [DONGChuan](https://dongchuan.github.io) 修改，感谢！
+本博客基于 [码志博客模板](https://github.com/mzlogin/mzlogin.github.io) 修改，非常感谢！
 
 Thanks for JetBrains' support.
 
