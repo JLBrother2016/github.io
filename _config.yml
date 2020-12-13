@@ -2,16 +2,16 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: http://www.jlbrother2016.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: JLBrother
+subtitle: "cup of life"
+description: "jl-brother 的个人博客，以技术为主，主要为学习总结"
+keywords: jl-brother JLBrother
+timezone: Asia/BeiJing
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+repository: jlcoo/jlcoo.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
