@@ -4,16 +4,7 @@
       - C++
       - Python
       - Design Patterns
+      - Golang
+      - Data Structure And Agorithms
+      - Distributed Systems
 
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
