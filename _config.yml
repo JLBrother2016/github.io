@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://jlcoo.github.io
+url: https://jlcoo.github.io
 date_format: "ordinal"
 title: jlcoo 小站
 subtitle: "cup of life, code for gap"
