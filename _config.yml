@@ -121,14 +121,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: jlcoo
-    repo: jlcoo.gitalk
+    repo: jlcoo.github.io
     oauth:
         client_id: 64bc52f4ce139d314fce
         client_secret: d8a4825f987edfa0cc39207addb0dd1f37794d77
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: jlcoo
-    repo: jlcoo.gitalk
+    repo: jlcoo.github.io
     clientID: 64bc52f4ce139d314fce
     clientSecret: d8a4825f987edfa0cc39207addb0dd1f37794d77
 # 在使用其它评论组件时可点击显示 Disqus
