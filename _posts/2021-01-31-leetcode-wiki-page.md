@@ -1,5 +1,5 @@
 ---
-layout: wiki
+layout: post
 title: leetcode 相关汇总
 categories: [Ｌeetcode]
 description: leetcode 刷题之路
